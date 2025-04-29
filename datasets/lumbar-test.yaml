@@ -1,7 +1,7 @@
-path: F:\zyk\yolov9-main\datasets\lumbar_test  # 数据集所在路径
-train: F:\zyk\yolov9-main\datasets\lumbar_test\train.txt  # 数据集路径下的train.txt
-val: F:\zyk\yolov9-main\datasets\lumbar_test\val.txt  # 数据集路径下的val.txt
-test: F:\zyk\yolov9-main\datasets\lumbar_test\test.txt  # 数据集路径下的test.txt
+path: lumbar_test  # 数据集所在路径
+train: train.txt  # 数据集路径下的train.txt
+val: val.txt  # 数据集路径下的val.txt
+test: test.txt  # 数据集路径下的test.txt
 
 
 nc: 10
