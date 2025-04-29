@@ -1,0 +1,13 @@
+path: F:\zyk\yolov9-main\datasets\lumbar_1_argu  # 数据集所在路径
+train: F:\zyk\yolov9-main\datasets\lumbar_1_argu\train.txt  # 数据集路径下的train.txt
+val: F:\zyk\yolov9-main\datasets\lumbar_1_argu\val.txt  # 数据集路径下的val.txt
+test: F:\zyk\yolov9-main\datasets\lumbar_1_argu\test.txt  # 数据集路径下的test.txt
+
+
+nc: 10
+
+# class names
+names: ['P1','P2','P3','P4','P5','HIZ','S1','S2','S3',  'Schmorl']
+
+
+
